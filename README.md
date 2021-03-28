@@ -1,1 +1,1 @@
-# GD_VB_Week2
+# Genç Dönüşüm Veri Bilimi eğitim programı Hafta 2
